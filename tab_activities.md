@@ -1,9 +1,9 @@
 ---
-title: Example
+title: Activities
 layout:  null
 tab: true
 order: 1
-tags: example-tag
+tags: outreach
 ---
 
 ## Example
