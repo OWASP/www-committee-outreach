@@ -2,7 +2,7 @@
 
 layout: col-sidebar
 title: OWASP Outreach Committee
-tags: example-tag
+tags: outreach
 pitch: A very brief, one-line description of your committee
 
 ---
