@@ -7,3 +7,4 @@
 * [Azzeddine Ramrami](mailto:azzeddine.ramrami@owasp.org)
 * [Antonis Manaras](mailto:antonis.manaras@owasp.org)
 * [Sam Stepanyan](mailto:sam.stepanyan@owasp.org)
+* [Grant Ongers](mailto:grant.ongers@owasp.org)
