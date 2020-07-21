@@ -3,7 +3,7 @@
 * [Haral Tsitsivas](mailto:haral.tsitsivas@owasp.org) - Vice Chair
 * [Zoe Braiterman](mailto:zoe.braiterman@owasp.org) - Secretary
 
-Members
+### Members
 * [Azzeddine Ramrami](mailto:azzeddine.ramrami@owasp.org)
 * [Sam Stepanyan](mailto:sam.stepanyan@owasp.org)
 * [Grant Ongers](mailto:grant.ongers@owasp.org)
