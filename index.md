@@ -7,11 +7,19 @@ pitch: A very brief, one-line description of your committee
 
 ---
 
-This is an example of a Committee page.  Please change these items to indicate the actual information you wish to present.  In addition to this information, the 'front-matter' above this text should be modified to reflect your actual information.  An explanation of each of the front-matter items is below:
+**Purpose**
 
-layout: This is the layout used by project and chapter pages.  You should leave this value as col-sidebar
+The purpose of the Outreach Committee is to promote active membership, participation, and contributions in OWASP.
+Our target audience is both existing members people unfamiliar with OWASP.
 
-title: This is the title of your project or chapter page, usually the name.  For example, OWASP Zed Attack Proxy or OWASP Baltimore
 
-tags: This is a space-delimited list of tags you associate with your project or chapter.  If you are using tabs, at least one of these tags should be unique in order to be used in the tabs files (an example tab is included in this repo) 
+**Objectives**
 
++ Offer an entry-level, volunteer-led, minority focused training in major OWASP events.
++ Enable volunteers to represent OWASP in industry events.
++ Represent OWASP in major industry events when possible.
++ Facilitate Leaders in ordering and distributing OWASP branded items.
++ Assist staff and major event organizers with creation of a career corner for major OWASP events.
++ Collaborate with other committees and initiatives as needs present.
++ Collaborate with local OWASP Chapters and Global OWASP leadership, including but not limited to offering advisory support to local and global OWASP leadership for Outreach advancement and collaboratively building OWASP communities.
++ Develop other special projects and events designed to further the purpose of OWASP.
