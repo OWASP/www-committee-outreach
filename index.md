@@ -15,9 +15,8 @@ Our target audience is both existing members people unfamiliar with OWASP.
 
 **Objectives**
 
-+ Offer an entry-level, volunteer-led, minority focused training in major OWASP events.
-+ Enable volunteers to represent OWASP in industry events.
-+ Represent OWASP in major industry events when possible.
++ Offer a free, entry-level, volunteer-led, minority focused training in major OWASP events.
++ Represent OWASP in major security industry, developer and hacker focused conferences and events when possible, and nominate new OWASP volunteers
 + Facilitate Leaders in ordering and distributing OWASP branded items.
 + Assist staff and major event organizers with creation of a career corner for major OWASP events.
 + Collaborate with other committees and initiatives as needs present.
