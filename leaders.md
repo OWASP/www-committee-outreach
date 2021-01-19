@@ -1,12 +1,12 @@
 ### Leaders
 * [Spyros Gasteratos](mailto:spyros.gasteratos@owasp.org) - Chair
-* [Haral Tsitsivas](mailto:haral.tsitsivas@owasp.org) - Vice Chair
-* [Zoe Braiterman](mailto:zoe.braiterman@owasp.org) - Secretary
 
 ### Members
 * [Azzeddine Ramrami](mailto:azzeddine.ramrami@owasp.org)
 * [Sam Stepanyan](mailto:sam.stepanyan@owasp.org)
 * [Grant Ongers](mailto:grant.ongers@owasp.org)
+* [Haral Tsitsivas](mailto:haral.tsitsivas@owasp.org)
+* [Zoe Braiterman](mailto:zoe.braiterman@owasp.org)
 
 ### Staff Contact
 * [Alonna Stock](mailto:alonna.stock@owasp.com)
