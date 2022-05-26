@@ -44,4 +44,8 @@ They could then be provided with extra resources (in addition to those noted abo
 
 ### Regular Ambassador
 
+tbc
+
 ### OWASP stall
+
+tbc
