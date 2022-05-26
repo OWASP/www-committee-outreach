@@ -29,8 +29,10 @@ That should also be a budget for a certain number of larger events per year wher
 An OWASP ambassador would have to specifically request this  provide the following:
 * Sufficient early warning to prepare and plan
 * Justification for OWASP's presence at the event.
-* A plan for who would staff the table (could be coordinated with the local chapter)
+* A plan for who would volunteer to staff the table (could be coordinated with the local chapter)
 * A quote for having the additional SWAG below prepared locally rather than having to ship it from elsewhere.
+
+OWASP may fund an attendee's ticket price if they are volunteering to staff the table for at least 33% of the time they are in attendance. Otherwise, OWASP should not be paying fees associated with attending or exhibiting at the conference. 
 
 They could then be provided with extra resources (in addition to those noted above) including:
 * OWASP tablecloth
