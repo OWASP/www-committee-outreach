@@ -32,9 +32,7 @@ An OWASP ambassador would have to specifically request this  provide the followi
 * A plan for who would volunteer to staff the table (could be coordinated with the local chapter)
 * A quote for having the additional SWAG below prepared locally rather than having to ship it from elsewhere.
 
-OWASP may provide tickets to an event organised by a partner organisation (or at it's discretion fund an attendee's ticket price) for those volunteering to staff the table for at least 33% of the time they are in attendance
-
-Otherwise, OWASP should not be paying fees associated with attending or exhibiting at the conference. 
+OWASP may provide tickets to an event organised by a partner organisation (or at it's discretion fund an attendee's ticket price) for those volunteering to staff the table for at least 33% of the time they are in attendance. Otherwise, OWASP should not be paying fees associated with attending or exhibiting at the conference. 
 
 They could then be provided with extra resources (in addition to those noted above) including:
 * OWASP tablecloth
