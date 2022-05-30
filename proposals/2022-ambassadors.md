@@ -8,6 +8,12 @@ It seems that there is limited understanding of OWASP around the wider developer
 
 To increase awareness and understanding of OWASP among the wider developer community.
 
+In particular:
+* Encourage new members to join by highlighting the benefits
+* Encourage new corporate supporters by highlighting the importance of the organization
+* Encourage greater involvement in the local chapter
+* Showcase the variety of projects and resources which OWASP provides
+
 ## Proposal Summary
 
 Creation of an OWASP ambassador role who would attend meetups and conferences and provide more in-depth information about getting into OWASP. 
@@ -29,10 +35,8 @@ That should also be a budget for a certain number of larger events per year wher
 An OWASP ambassador would have to specifically request this  provide the following:
 * Sufficient early warning to prepare and plan
 * Justification for OWASP's presence at the event.
-* A plan for who would volunteer to staff the table (could be coordinated with the local chapter)
+* A plan for who would staff the table (could be coordinated with the local chapter)
 * A quote for having the additional SWAG below prepared locally rather than having to ship it from elsewhere.
-
-OWASP may provide tickets to an event organised by a partner organisation (or at it's discretion fund an attendee's ticket price) for those volunteering to staff the table for at least 33% of the time they are in attendance. Otherwise, OWASP should not be paying fees associated with attending or exhibiting at the conference. 
 
 They could then be provided with extra resources (in addition to those noted above) including:
 * OWASP tablecloth
@@ -44,8 +48,4 @@ They could then be provided with extra resources (in addition to those noted abo
 
 ### Regular Ambassador
 
-tbc
-
-### OWASP stall
-
-tbc
+### Ta
