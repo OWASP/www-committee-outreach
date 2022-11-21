@@ -46,6 +46,14 @@ They could then be provided with extra resources (in addition to those noted abo
 
 ## Budget required
 
+A yearly budget will be agreed between the outreach committee and the board with the outreach committee being responsible for how it is utilized.
+
+The outreach committee will monitor and report on metrics such as:
+- Number of non-OWASP events (meetups or conferences) attended, split by rough number of overall attendees and whether there was a booth or not.
+- New memberships from each event. (This would require new functionality in the membership sign-up to include some sort of attribution field or code.)
+- Geographical spread of events attended.
+
+
 ### Regular Ambassador
 
 tbc
