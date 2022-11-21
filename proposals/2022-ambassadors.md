@@ -20,7 +20,13 @@ Creation of an OWASP ambassador role who would attend meetups and conferences an
 
 ## Proposal Details
 
-To qualify as an OWASP ambassador, the person should commit to going to four non-OWASP events per year with the aim of advocating for OWASP and track this for audit on renewal. This would be a purely volunteer position and new applicants would have to be able to demonstrate previous OWASP involvement as well as having OWASP membership. They would also have to specifically agree to comply with the OWASP code of conduct (although they should already be subject to this as members.) 
+To qualify as an OWASP ambassador, the person should commit to going to four non-OWASP events per year with the aim of advocating for OWASP and track this for audit on renewal. The assumption should be that these events will be local enough to the ambassador so as not to require travel expenses.
+
+This would be a purely volunteer position and new applicants would have to be OWASP members who are active within the community having previously been involved with OWASP (project leaders, chapter leaders, informal OWASP advocates). Appointment of an ambassador would be at the discretion of the outreach committee and require majority agreement that the candidate is not only active in the community but also has the commuincation and outreach skills to operate as an effective ambassador in their community.
+
+The ambassador would also have to specifically agree to comply with the OWASP code of conduct (although they should already be subject to this as members.)
+
+
 
 In return, the ambassador would receive:
 * Specific recognition and thanks
