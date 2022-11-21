@@ -28,7 +28,7 @@ In return, the ambassador would receive:
 * Some dedicated OWASP apparel to make them stand out.
 * Coordination with the local chapter
 
-### OWASP stall
+### OWASP booth/table
 
 That should also be a budget for a certain number of larger events per year where OWASP could have a table or stall for attendees to visit and learn more. 
 
