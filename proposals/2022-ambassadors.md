@@ -20,7 +20,11 @@ Creation of an OWASP ambassador role who would attend meetups and conferences an
 
 ## Proposal Details
 
-To qualify as an OWASP ambassador, the person should commit to going to four non-OWASP events per year with the aim of advocating for OWASP and track this for audit on renewal. This would be a purely volunteer position and new applicants would have to be able to demonstrate previous OWASP involvement as well as having OWASP membership.
+To qualify as an OWASP ambassador, the person should commit to going to four non-OWASP events per year with the aim of advocating for OWASP and track this for audit on renewal. The assumption should be that these events will be local enough to the ambassador so as not to require travel expenses.
+
+This would be a purely volunteer position and new applicants would have to be OWASP members who are active within the community having previously been involved with OWASP (project leaders, chapter leaders, informal OWASP advocates). Appointment of an ambassador would be at the discretion of the outreach committee and require majority agreement that the candidate is not only active in the community but also has the commuincation and outreach skills to operate as an effective ambassador in their community.
+
+The ambassador would also have to specifically agree to comply with the OWASP code of conduct (although they should already be subject to this as members.)
 
 In return, the ambassador would receive:
 * Specific recognition and thanks
@@ -28,11 +32,11 @@ In return, the ambassador would receive:
 * Some dedicated OWASP apparel to make them stand out.
 * Coordination with the local chapter
 
-### OWASP stall
+### OWASP booth/table
 
-That should also be a budget for a certain number of larger events per year where OWASP could have a table or stall for attendees to visit and learn more. 
+There should also be provision in the budget for a certain number of larger events per year where OWASP could have a table or stall for attendees to visit and learn more. 
 
-An OWASP ambassador would have to specifically request this  provide the following:
+This could either be chosen by the outreach committee or an OWASP ambassador could specifically request this. Either way, the following should be provided:
 * Sufficient early warning to prepare and plan
 * Justification for OWASP's presence at the event.
 * A plan for who would staff the table (could be coordinated with the local chapter)
@@ -43,8 +47,17 @@ They could then be provided with extra resources (in addition to those noted abo
 * Larger information flyers about OWASP
 * Some sort of additional swag (like a unique t-shirt) to be dedicated for people who become OWASP members on the spot
 
+The committee should engage with the conference to ensure that OWASP should not be paying for a booth or at least should be paying a significantly reduced rate. Where OWASP is having to pay for the booth, extra attention should be paid to the Return on Investment of attending the event. 
 
 ## Budget required
+
+A yearly budget will be agreed between the outreach committee and the board with the outreach committee being responsible for how it is utilized.
+
+The outreach committee will monitor and report on metrics such as:
+- Number of non-OWASP events (meetups or conferences) attended, split by rough number of overall attendees and whether there was a booth or not.
+- New memberships from each event to try and guage Return on Investment. (This would require new functionality in the individual and corporate membership sign-up to include some sort of attribution field or code.)
+- Geographical spread of events attended.
+
 
 ### Regular Ambassador
 
