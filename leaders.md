@@ -1,6 +1,7 @@
 ### Leaders
 
-- [Spyros Gasteratos](mailto:spyros.gasteratos@owasp.org) - Chair
+- [Loredana Mancini](mailto:loredana.mancini@owasp.org)
+- [Andra Lezza](mailto:andra.lezza@owasp.org)
 
 ### Members
 
@@ -12,4 +13,4 @@
 
 ### Staff Contact
 
-- [Lauren Thomas](mailto:lauren.thomas@owasp.com)
+- [Dawn Aitken](mailto:dawn.aitken@owasp.com)
